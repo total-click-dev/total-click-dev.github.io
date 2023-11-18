@@ -6,7 +6,6 @@
 
 <meta name="robots" content="noindex">
 <!DOCTYPE html>
-<script type="text/javascript" src="script.js"></script>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -15,18 +14,29 @@
     <link rel="icon" type="image/x-icon" href="favicon.png">
 </head>
 <body style="background-color: #4cb4dd;">
+    <div class="header">Total Click</div>
+    <div style="left: 50%; text-align: center;" class="container"></div>
     <a class="copyright" onclick="window.open('https://github.com/Total-Click/Total-Click.github.io')" href="https://docs.github.com/en/site-policy/content-removal-policies/guide-to-submitting-a-dmca-takedown-notice">DMCA</a>
 </body>
 </html>
 
 <style>
+    div.header {
+        background-color: rgb(238, 238, 238);
+        text-align: center;
+        display: block;
+        font-size: xx-large;
+        width: "100%";
+        margin: 20px;
+    }
     a.copyright {
         font-size: x-large;
-        left:50%;
+        left: 50%;
         display: block;
         position: absolute;
-        bottom: 0px;
+        bottom:auto; 
         text-align: center;
         width: "100%";
     }
 </style>
+<script type="text/javascript" src="script.js"></script>
