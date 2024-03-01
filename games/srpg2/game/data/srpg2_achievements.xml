@@ -1,0 +1,167 @@
+<achievements>
+	<achievement>
+		<id>1</id>
+		<name>Power Overwhelming</name>
+		<description>Max all stats</description>
+	</achievement>
+	<achievement>
+		<id>2</id>
+		<name>Armed to the Teeth</name>
+		<description>Own all weapons</description>
+	</achievement>
+	<achievement>
+		<id>3</id>
+		<name>Rhodes Scholar</name>
+		<description>Max out Intelligence</description>
+	</achievement>
+	<achievement>
+		<id>4</id>
+		<name>Gym Rat</name>
+		<description>Max out Strength</description>
+	</achievement>
+	<achievement>
+		<id>5</id>
+		<name>Used Car Salesman</name>
+		<description>Max out Charm</description>
+	</achievement>
+	<achievement>
+		<id>6</id>
+		<name>Maxed Baby!</name>
+		<description>Max out a profession</description>
+	</achievement>
+	<achievement>
+		<id>7</id>
+		<arg1>15</arg1>
+		<name>Workaholic</name>
+		<description>Max 15 professions</description>
+	</achievement>
+	<achievement>
+		<id>8</id>
+		<name>Hustler</name>
+		<arg1>50000</arg1>
+		<description>Win $50,000 Gambling</description>
+	</achievement>
+	<achievement>
+		<id>9</id>
+		<name>Game Over Man</name>
+		<description>Get married</description>
+	</achievement>
+	<achievement>
+		<id>10</id>
+		<arg1>5</arg1>
+		<name>Career Criminal</name>
+		<description>Go to Jail 5 Times</description>
+	</achievement>
+	<achievement>
+		<id>11</id>
+		<arg1>5000000</arg1>
+		<name>Five Million Dollar Man</name>
+		<description>Get $5,000,000</description>
+	</achievement>
+	<achievement>
+		<id>12</id>
+		<arg1>15</arg1>
+		<name>Speed Run</name>
+		<description>Get the Lab Key within the first 15 Days</description>
+	</achievement>
+	<achievement>
+		<id>13</id>
+		<arg1>100</arg1>
+		<name>Vigilante Justice</name>
+		<description>Kill 100 Enemies</description>
+	</achievement>
+	<achievement>
+		<id>14</id>
+		<name>"To the Lab!"</name>
+		<description>Own the Lab Key</description>
+	</achievement>
+	<achievement>
+		<id>15</id>
+		<arg1>5</arg1>
+		<name>Golden Glove Champ</name>
+		<description>Win 5 boxing matches</description>
+	</achievement>
+	<achievement>
+		<id>16</id>
+		<arg1>999</arg1>
+		<name>Mother Theresa</name>
+		<description>+999 Karma</description>
+	</achievement>
+	<achievement>
+		<id>17</id>
+		<arg1>-999</arg1>
+		<name>Satan Incarnate</name>
+		<description>-999 Karma</description>
+	</achievement>
+	<achievement>
+		<id>18</id>
+		<name>Great Scott!</name>
+		<description>Get the Hoverboard</description>
+	</achievement>
+	<achievement>
+		<id>19</id>
+		<name>Penthouse Living</name>
+		<description>Own the Penthouse Key</description>
+	</achievement>
+	<achievement>
+		<id>20</id>
+		<arg1>100000</arg1>
+		<arg2>10</arg2>
+		<name>Fast Cash</name>
+		<description>Gain $100,000 in the first 10 days</description>
+	</achievement>
+    <achievement>
+		<id>21</id>
+		<name>Maximus Prime</name>
+		<description>Get every stat to 2000</description>
+	</achievement>
+    <achievement>
+		<id>22</id>
+		<name>Castle Crasher</name>
+		<description>Get the castle key</description>
+	</achievement>
+    <achievement>
+		<id>23</id>
+		<arg1>10</arg1>
+		<name>Caged Animal</name>
+		<description>Win 10 cage fights</description>
+	</achievement>
+    <achievement>
+		<id>24</id>
+		<name>ET go home</name>
+		<description>Help the alien get home</description>
+	</achievement>
+    <achievement>
+		<id>25</id>
+		<name>Hail to the king baby</name>
+		<description>Become a king</description>
+	</achievement>
+    <achievement>
+		<id>26</id>
+		<arg1>6</arg1>
+		<name>Monopoly</name>
+		<description>Own every purchasable business</description>
+	</achievement>
+    <achievement>
+		<id>27</id>
+		<arg1>5</arg1>
+		<name>Pwnerer's Clearing House</name>
+		<description>Clear out every combat zone 5 times</description>
+	</achievement>
+    <achievement>
+		<id>28</id>
+		<name>Charlie Sheen</name>
+		<description>Eat/Drink/Smoke to the point of needing medical attention</description>
+	</achievement>
+    <achievement>
+		<id>29</id>
+		<arg1>10000000</arg1>
+		<name>10 million dollar man</name>
+		<description>Have $10,000,000 on hand</description>
+	</achievement>
+    <achievement>
+		<id>30</id>
+		<name>Hef</name>
+		<description>Own the Mansion key</description>
+	</achievement>
+</achievements>

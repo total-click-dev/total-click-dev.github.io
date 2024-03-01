@@ -1,0 +1,2299 @@
+<?xml version="1.0" encoding="utf-8"?>
+<itemdata>  
+	<item_object>
+		<item_id>forty_oz</item_id>
+		<item_name>40 oz.</item_name>
+		<item_desc>Rappers will tell you that 40's are good for you.  And you know what?  They are good for you, because 40's give you strong bones and taste like ice cream.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>2</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<item_purchased_from>liquor_store						</item_purchased_from>
+		<item_cost>90</item_cost>
+		<item_type>drink</item_type>
+	</item_object>
+	<item_object>
+		<item_id>xxx_dvd</item_id>
+		<item_name>XXX DVD</item_name>
+		<item_desc>The case reads 'Call of Booty 4: Maiden Chest Hair 2'.  The cover contains pictures of people that seem to have temporarily misplaced their clothing.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>adult_video_store					</item_purchased_from>
+		<item_cost>15</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>painkillers</item_id>
+		<item_name>Painkillers</item_name>
+		<item_desc>After wiping off some well-settled grit & grime, it appears that these aren't 'Pain Killers' at all.  The label reads 'Excruciatingly Painful Human Killers'.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>wally_mart</item_purchased_from>
+		<item_cost>85</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>jawbuster</item_id>
+		<item_name>Jaw Buster</item_name>
+		<item_desc>A candy intent on mangling your mandible.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>3</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>convenience_store</item_purchased_from>
+		<item_cost>2</item_cost>
+		<item_type>food</item_type>
+	</item_object>	
+	<item_object>
+		<item_id>slushee</item_id>
+		<item_name>Slushee</item_name>
+		<item_desc>Cold purple icy stuff.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>5</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>convenience_store</item_purchased_from>
+		<item_cost>4</item_cost>
+		<item_type>drink</item_type>
+	</item_object>
+	<item_object>
+		<item_id>oldhotdog</item_id>
+		<item_name>Old Hotdog</item_name>
+		<item_desc>This hotdog looks old. Older than you.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>-5</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>convenience_store</item_purchased_from>
+		<item_cost>5</item_cost>
+		<item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>customskateboard</item_id>
+		<item_name>Custom Skateboard</item_name>
+		<item_desc>(Hold SHIFT to use)  This custom board is sick, tight, and wicked steezy rad with gnarly trucks and ill one-of-a-kind graphics.  Get there faster, and in greater style, with this buttery ride.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>skate_shop</item_purchased_from>
+		<item_cost>325</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>milkshake</item_id>
+		<item_name>Milk Shake</item_name>
+		<item_desc>Restores 10 health.  Oh, and it's chocolate.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>10</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>mcsticks</item_purchased_from>
+		<item_cost>7</item_cost>
+		<item_type>drink</item_type>
+	</item_object>
+	<item_object>
+		<item_id>fries</item_id>
+		<item_name>Fries</item_name>
+		<item_desc>Restores 18 health.  They look salty and delicious.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>18</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>mcsticks</item_purchased_from>
+		<item_cost>12</item_cost>
+		<item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>cheeseburger</item_id>
+		<item_name>Cheese Burger</item_name>
+		<item_desc>Restores 30 health  (Pickles included!)</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>30</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>mcsticks</item_purchased_from>
+		<item_cost>25</item_cost>
+		<item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>grandslamburger</item_id>
+		<item_name>Grand Slam Burger</item_name>
+		<item_desc>Restores 100 health and over 9,000 deliciousnesses.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>100</hp_effect>
+		<strength_effect>2</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>mcsticks</item_purchased_from>
+		<item_cost>75</item_cost>
+		<item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>squeegee</item_id>
+		<item_name>Squeegee</item_name>
+		<item_desc>Judging from the gas station logo on this squeegee, it wasn't legitimately acquired.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>a
+		<item_id>switchblade</item_id>
+		<item_name>Switchblade</item_name>
+		<item_desc>Looks super sharp.  Har.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>cubancigars</item_id>
+		<item_name>Cuban Cigars</item_name>
+		<item_desc>Rolled from Cuban tobacco leaves by real torcedores, Monticristo Cigars are among the finest in the world.  Due to an embargo imposed by Paper Thin City in 1962, they are also illegal to purchase or possess.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>wally_mart</item_purchased_from>
+		<item_cost>2350</item_cost>
+		<item_type>smokes</item_type>
+	</item_object>
+	<item_object>
+		<item_id>smokes</item_id>
+		<item_name>Smokes</item_name>
+		<item_desc>Smoking is cool.  Not just a little cool, but ripped leather-vest wearing, chain-gun toting, I drive over robots in my jet-fuel powered motorcycle with flames coming out of the back cool.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>-10</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>2</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>convenience_store</item_purchased_from>
+		<item_cost>45</item_cost>
+		<item_type>smokes</item_type>
+	</item_object>
+	<item_object>
+		<item_id>zipolighter</item_id>
+		<item_name>Zipo Lighter</item_name>
+		<item_desc>Fire.  Fire is good.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>pawn_shop</item_purchased_from>
+		<item_cost>75</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>radbull</item_id>
+		<item_name>Rad Bull</item_name>
+		<item_desc>The label reads "Contains as much caffeine as 96 cups of coffee.  Not recommended for human consumption."</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>10</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>1</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+        <caffeine_level>2</caffeine_level>
+		<item_purchased_from>convenience_store</item_purchased_from>
+		<item_cost>30</item_cost>
+		<item_type>drink</item_type>
+	</item_object>
+	<item_object>
+		<item_id>crackbookpro</item_id>
+		<item_name>Crack Book Pro</item_name>
+		<item_desc>Soon, there will be 2 kinds of people.  Those who use computers, and those who use Crackbooks.  It's the laptop for the rest of us.  Think differently.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>wally_mart</item_purchased_from>
+		<item_cost>3700</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>xphone</item_id>
+		<item_name>xPhone</item_name>
+		<item_desc>The most popular phone on the market today, the xPhone 7G comes with a 16-Gigapixel camera, Eleventeen Zetabytes of storage, and a battery with over 9,000 jigga-watt hours of talk time.  Plus, intergalactic voice roaming – the xPhone works in space, mother trucker.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>trophemon</item_id>
+		<item_name>Trophemon</item_name>
+		<item_desc>This Trophemon is 1 of 4 known living members of its species; this bird type trophemon is extremely rare.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>mobiusstrip</item_id>
+		<item_name>Mobius Strip</item_name>
+		<item_desc>A Mobius Strip is a 2D object which exists in 3D space; it can be created by twisting a strip of paper one half turn, bending it into a loop, and taping the two ends together.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>pizza_shop</item_purchased_from>
+		<item_cost>100000</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>kleinbottle</item_id>
+		<item_name>Klein Bottle</item_name>
+		<item_desc>A zero-volume bottle.  A one-sided surface.  Almost paradoxically, a Klein Bottle has no inside or outside.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>pizza_shop</item_purchased_from>
+		<item_cost>100000</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>hypercube</item_id>
+		<item_name>4D Hypercube</item_name>
+		<item_desc>Google it.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>pizza_shop</item_purchased_from>
+		<item_cost>100000</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>electricguitar</item_id>
+		<item_name>Electric Guitar</item_name>
+		<item_desc>A limited edition 1982 BC Richter Mockingbeest, complete with a pair of highly sought-after early-80's pickups.  Sings like an angel and wails like a banshee.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>pawn_shop</item_purchased_from>
+		<item_cost>3500</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>bulletproofvest</item_id>
+		<item_name>Bullet-Proof Vest</item_name>
+		<item_desc>The tag reads 'Made in Kazakhstan, 100% Kazakh Cotton.  Not guaranteed to stop bullets, pencils, or small woodland animals.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>12000</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>oldbaseballbat</item_id>
+		<item_name>Old Baseball Bat</item_name>
+		<item_desc>It's the type of trashy bat you'd find in a pawnshop.  It has a nail through it.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>pawn_shop</item_purchased_from>
+		<item_cost>235</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>majorleaguebat</item_id>
+		<item_name>Major League Bat</item_name>
+		<item_desc>This looks like it could do some damage in the off-season.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>pawn_shop</item_purchased_from>
+		<item_cost>5500</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>halloffamebat</item_id>
+		<item_name>Hall of Fame Bat</item_name>
+		<item_desc>The ultimate bat in the entire universe.  Maybe in every universe...</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>ornamentalkatana</item_id>
+		<item_name>Ornamental Katana</item_name>
+		<item_desc>A replica Japanese sword.  Although fake, it looks like it could still do considerable damage.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>pawn_shop</item_purchased_from>
+		<item_cost>490</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>carbonsteelkatana</item_id>
+		<item_name>Carbon Steel Katana</item_name>
+		<item_desc>A carbon steel Samurai sword.  This bad boy could slice open just about anything... or anyone.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>donut_shop</item_purchased_from>
+		<item_cost>6200</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>themasamune</item_id>
+		<item_name>The Masamune</item_name>
+		<item_desc>The greatest sword in the history of... swords.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>weatheredsledgehammer</item_id>
+		<item_name>Weathered Sledge Hammer</item_name>
+		<item_desc>This sledge has seen better days.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>heavysledgehammer</item_id>
+		<item_name>Heavy Sledge Hammer</item_name>
+		<item_desc>The Einsteinium has improved your smashing power considerably.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>supersledge</item_id>
+		<item_name>Super Sledge</item_name>
+		<item_desc>Thanks 'Recon' Bob!  This mighty slegdehammer stands second to none in melee supremacy.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>pistol</item_id>
+		<item_name>Pistol</item_name>
+		<item_desc>A basic handgun, used for gunning by hand.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>pawn_shop</item_purchased_from>
+		<item_cost>685</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>glock</item_id>
+		<item_name>Glock</item_name>
+		<item_desc>A modern handgun that makes a cool sound when the trigger is pulled.  Wheeee!</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>donut_shop</item_purchased_from>
+		<item_cost>9050</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>doomsdayglock</item_id>
+		<item_name>Doomsday Glock</item_name>
+		<item_desc>Each shot counts down toward the end of time.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1337000</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>singlebarrelshotgun</item_id>
+		<item_name>Single Barrel Shotgun</item_name>
+		<item_desc>The most underpowered of the shotgun brethren.  It's still a shotgun... I guess.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>donut_shop</item_purchased_from>
+		<item_cost>3800</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>doublebarrelshotgun</item_id>
+		<item_name>Double Barrel Shotgun</item_name>
+		<item_desc>A classic used by angry farmers and rabbit hunters everywhere.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>combatshotgun</item_id>
+		<item_name>Combat Shotgun</item_name>
+		<item_desc>The label reads "Street Cleaner".</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>machinegun</item_id>
+		<item_name>Machine Gun</item_name>
+		<item_desc>It's fully automatic.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>13850</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>ak47</item_id>
+		<item_name>AK-47</item_name>
+		<item_desc>The very best there is.  When you absolutely, positively... uhh... can we just say it's a really sweet gun?</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>secretweapon</item_id>
+		<item_name>Secret Weapon</item_name>
+		<item_desc>Shhhhhh... it's a secret!</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>fakegunlicense</item_id>
+		<item_name>Fake Gun License</item_name>
+		<item_desc>A pretty good replica of a real Gun License, except that the person pictured looks absolutely nothing like you.  Hopefully the guy at the pawn shop won't notice.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>wally_mart</item_purchased_from>
+		<item_cost>750</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>fakeid</item_id>
+		<item_name>Fake ID</item_name>
+		<item_desc>A pretty good replica of a real Driver's License, except that the person pictured looks absolutely nothing like you.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>true</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>-30</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>wally_mart</item_purchased_from>
+		<item_cost>150</item_cost>
+	</item_object>		
+	<item_object>
+		<item_id>coathanger</item_id>
+		<item_name>Coat Hanger</item_name>
+		<item_desc>This coat-hanger has seen better days.  Aside from any sentimental, and potentially utilitarian, value, it looks pretty worthless.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>screwdriver</item_id>
+		<item_name>Screw Driver</item_name>
+		<item_desc>It's a Phillips... or maybe a Robertson.  In capable hands, it looks like it could either screw -- or unscrew -- screws.  That's assuming that the screws aren't stripped, of course, and that it's the right size and shape for the screw one intends it to work with.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>65</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>condom</item_id>
+		<item_name>Condom</item_name>
+		<item_desc>It's a condom.  You bought it in the men's washroom, remember?</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>puppy</item_id>
+		<item_name>Puppy</item_name>
+		<item_desc>Awwwwww!</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>keys</item_id>
+		<item_name>Keys</item_name>
+		<item_desc>A regular old set of house keys.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>scarf</item_id>
+		<item_name>Scarf</item_name>
+		<item_desc>It's a fancy girl-scarf.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>purse</item_id>
+		<item_name>Purse</item_name>
+		<item_desc>Let's see... lipstick, keys... cellphone... and... a Slappchop?  How did that get in here?</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>watch</item_id>
+		<item_name>Watch</item_name>
+		<item_desc>A gold wrist watch.  This blingin' timepiece is worth some serious coin.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>ring</item_id>
+		<item_name>Ring</item_name>
+		<item_desc>Looks like an engagement ring.  Da Beers or Da Bears?</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>textbook</item_id>
+		<item_name>Text Book</item_name>
+		<item_desc>Complex Astronomy 127-5: Black holes and you.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>calculator</item_id>
+		<item_name>Calculator</item_name>
+		<item_desc>A graphing calculator; this baby has solitaire on it!</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>mechanicalpencil</item_id>
+		<item_name>Mechanical Pencil</item_name>
+		<item_desc>This is no Number 2 Pencil, my friend.  You're just one click away from graphite glory.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>bag</item_id>
+		<item_name>Bag</item_name>
+		<item_desc>A paper bag.  It's contents remain undisclosed.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>coolcard</item_id>
+		<item_name>Cool Card</item_name>
+		<item_desc>This card gives you instant street cred.  Valid until Depeche Mode loses their edge.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>package</item_id>
+		<item_name>Package</item_name>
+		<item_desc>You don't want to be caught with your pants down carrying THIS package.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>pizza</item_id>
+		<item_name>Pizza</item_name>
+		<item_desc>Restores 100 health.  Joe makes one hell of a pie.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>100</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>2</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>pizza_shop</item_purchased_from>
+		<item_cost>75</item_cost>
+		<item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>chickenwings</item_id>
+		<item_name>Chicken Wings</item_name>
+		<item_desc>Restores 40 health.  Covered in red hot awesome-sauce.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>40</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>pizza_shop</item_purchased_from>
+		<item_cost>35</item_cost>
+		<item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>donut</item_id>
+		<item_name>Donut</item_name>
+		<item_desc>Restores 10 health, donut?  Mmm... donut.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>10</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>7</item_cost>
+		<item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>coffee</item_id>
+		<item_name>Coffee</item_name>
+		<item_desc>Restores 5 health.  Beats office coffee any Monday of the week.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>5</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>4</item_cost>
+		<item_type>drink</item_type>
+        <caffeine_level>1</caffeine_level>
+	</item_object>
+	<item_object>
+		<item_id>overpricedbakedgood</item_id>
+		<item_name>Overpriced Baked Good</item_name>
+		<item_desc>Restores 5 health.  Some buttery looking orange-filled French moon thingy... seriously, WTF is this?</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>5</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>15</item_cost>
+		<item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>fancycoffee</item_id>
+		<item_name>Fancy Coffee</item_name>
+		<item_desc>Restores 15 health.  It's the kind of coffee your friends wish they had.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>15</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>1</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>35</item_cost>
+		<item_type>drink</item_type>
+        <caffeine_level>1</caffeine_level>
+	</item_object>
+	<item_object>
+		<item_id>bananasplit</item_id>
+		<item_name>Banana Split</item_name>
+		<item_desc>Restores 18 health.  The banana split - undefeated world champion of frozen treats.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>18</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>7</item_cost>
+		<item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>icecreamcone</item_id>
+		<item_name>Ice Cream Cone</item_name>
+		<item_desc>Restores 5 health.  Life is always better with ice cream.... unless it's poisonous!  This ice cream isn't poisonous, though.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>5</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>4</item_cost>
+		<item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>toiletpaperroll</item_id>
+		<item_name>Toilet Paper Roll</item_name>
+		<item_desc>Regular roll of TP... because you never know when you might need it.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>wally_mart</item_purchased_from>
+		<item_cost>2</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>freefoodcard</item_id>
+		<item_name>Free Food Card</item_name>
+		<item_desc>Not valid in Fort McMurray, Paper Thin City, or Times Square locations.  Limited time only, while supplies last, some conditions apply.  See in-store for details.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>theinternet</item_id>
+		<item_name>The Internet</item_name>
+		<item_desc>...you OWN it.  P.I.M.P.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>true</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>50</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>cowbell</item_id>
+		<item_name>Cow Bell</item_name>
+		<item_desc>You really can't ever have enough.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>10</strength_effect>
+		<charm_effect>10</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>cheapwatch</item_id>
+		<item_name>Cheap Watch</item_name>
+		<item_desc>Looks like it might be made out of plastic... what a nice gift.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>platinumrecord</item_id>
+		<item_name>Platinum Record</item_name>
+		<item_desc>You are the Rock'n'Roll king of this dimension.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>true</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>40</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>hoverboard</item_id>
+		<item_name>Hoverboard</item_name>
+		<item_desc>(Hold SHIFT to use)  Your super fast, super futuristic ride... Just don't use this bad-boy on water.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>ladder</item_id>
+		<item_name>Ladder</item_name>
+		<item_desc>A small step ladder.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>280</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>einsteinium</item_id>
+		<item_name>Einsteinium</item_name>
+		<item_desc>Some kind of strong, metallic compound.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>unobtainium</item_id>
+		<item_name>Unobtainium</item_name>
+		<item_desc>It's really heavy; looks like some kind of super-dense element.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>wally_mart</item_purchased_from>
+		<item_cost>450000</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>selfhelpbook</item_id>
+		<item_name>Self Help Book</item_name>
+		<item_desc>This book will help you get your life back on track (or your money back).</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>wally_mart</item_purchased_from>
+		<item_cost>120</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>coca</item_id>
+		<item_name>Coca</item_name>
+		<item_desc>It's one hell of a drug.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>donut_shop</item_purchased_from>
+		<item_cost>900</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>combat_warehousekey</item_id>
+		<item_name>Warehouse Key</item_name>
+		<item_desc>It's a key to 'The Old Abandoned Warehouse'.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>combat_seventhfloorkey</item_id>
+		<item_name>Mobster Tower Key</item_name>
+		<item_desc>It's a key to the 13th floor of 'Mobster Tower'.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>combat_officekey</item_id>
+		<item_name>Gangster HQ Key</item_name>
+		<item_desc>It's a key to 'Gangster HQ'.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>basementkey</item_id>
+		<item_name>Basement Key</item_name>
+		<item_desc>It's a key to your basement suite (over by The Old Abandoned Warehouse, downtown).</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>condokey</item_id>
+		<item_name>Condo Key</item_name>
+		<item_desc>It's the key to your Condo.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>250000</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>penthousekey</item_id>
+		<item_name>Penthouse Key</item_name>
+		<item_desc>It's the key to your Penthouse.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>750000</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>proskateboard</item_id>
+		<item_name>Pro Skateboard</item_name>
+		<item_desc>(Hold SHIFT to use)  It's your signature Pro Board, customized and tricked out for maximum speed.  Broheem.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>baconflavorednarwhal</item_id>
+		<item_name>Bacon Flavored Narwhal</item_name>
+		<item_desc>Bacon flavored narwhal can cure anything (or so the legend goes).</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>comasnoozebed</item_id>
+		<item_name>Coma-Snooze Bed</item_name>
+		<item_desc>This bed will help you get up earlier.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>wally_mart</item_purchased_from>
+		<item_cost>2200</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>alarmclock</item_id>
+		<item_name>Alarm Clock</item_name>
+		<item_desc>This alarm clock will help you get up earlier.  And angrier.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>wally_mart</item_purchased_from>
+		<item_cost>400</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>idcard</item_id>
+		<item_name>ID Card</item_name>
+		<item_desc>This ID will get you into places.</item_desc>
+		<item_unique>true</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>true</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>25</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from>wally_mart</item_purchased_from>
+		<item_cost>175</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>combat_labkey</item_id>
+		<item_name>The Lab Key</item_name>
+		<item_desc>It's a key to 'The Lab'.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>stethoscope</item_id>
+		<item_name>Stethoscope</item_name>
+		<item_desc>Used to rock some beats.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>true</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>75</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>emptypaintcan</item_id>
+		<item_name>Empty Paint Can</item_name>
+		<item_desc>You used up all the paint... aww.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>pimphat</item_id>
+		<item_name>Pimp Hat</item_name>
+		<item_desc>It's purple and plush.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>true</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>100</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>cc45chainsaw</item_id>
+		<item_name>45cc Chainsaw</item_name>
+		<item_desc>Looks like a cheap chainsaw.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>650</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>cc55chainsaw</item_id>
+		<item_name>55cc Chainsaw</item_name>
+		<item_desc>A decent sized saw, perfect for tree cutting or horror films.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>4700</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>cc70chainsaw</item_id>
+		<item_name>70cc Chainsaw</item_name>
+		<item_desc>This is an elite chainsaw. Made in Canada.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>angelfoodcake</item_id>
+		<item_name>Angel Food Cake</item_name>
+		<item_desc>Yum!</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>100</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>50</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1050</item_cost>
+        <item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>bowflex</item_id>
+		<item_name>Bow Flecks</item_name>
+		<item_desc>398 different exercises in one easy to store gym. There's big, then there's BOW FLECKS BIG!</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>90</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>chaingun</item_id>
+		<item_name>Chaingun</item_name>
+		<item_desc>It's not made of chain and it doesn't shoot chains.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>87000</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>crabs</item_id>
+		<item_name>Crab</item_name>
+		<item_desc>I guess you should name him...</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>true</instant_use>
+		<hp_effect>100</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>darksabre</item_id>
+		<item_name>Dark Laser Sword</item_name>
+		<item_desc>A badass sword for a badass dude.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>devilfoodcake</item_id>
+		<item_name>Devil Food Cake</item_name>
+		<item_desc>Yuk!</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>100</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>-50</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1050</item_cost>
+        <item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>electrohelmet</item_id>
+		<item_name>Electro Helmet</item_name>
+		<item_desc>A helmet that produces some sort of electrical field around its user. A wizard must have made it.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>18550</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>fuelcell</item_id>
+		<item_name>Fuel Cell</item_name>
+		<item_desc>A fuel cell of some kind.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>grandpiano</item_id>
+		<item_name>Grand Piano</item_name>
+		<item_desc>This may take up a bit of space in your briefcase...</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>85</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>greensabre</item_id>
+		<item_name>Glowy Sword</item_name>
+		<item_desc>It glows!</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>3100</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>homebrewflamer</item_id>
+		<item_name>Homebrew Flamethrower</item_name>
+		<item_desc>This really doesn't look safe.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>hyperdrive</item_id>
+		<item_name>Hyper Drive</item_name>
+		<item_desc>Makes stars turn into lines.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>leafblower</item_id>
+		<item_name>Leaf Blower</item_name>
+		<item_desc>Blows really really hard. Not to be confused with a hockey team from Toronto.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1900</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>lightsabre</item_id>
+		<item_name>Light Laser Sword</item_name>
+		<item_desc>Because blue means good guy!</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+	<item_object>
+		<item_id>minigun</item_id>
+		<item_name>Minigun</item_name>
+		<item_desc>Nothing very 'mini' about it.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>20900</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>modifiedflamer</item_id>
+		<item_name>Modified Flamethrower</item_name>
+		<item_desc>That fuel cell really turned up the heat.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>novaflamer</item_id>
+		<item_name>Nova Flamethrower</item_name>
+		<item_desc>The power of the sun in the palm of your hand.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>nustandbolts</item_id>
+		<item_name>Nuts and Bolts</item_name>
+		<item_desc>Not the snack food.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>pecanpie</item_id>
+		<item_name>Pecan Pie</item_name>
+		<item_desc>Because pecan pie is the &^%$.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>true</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>30</strength_effect>
+		<charm_effect>30</charm_effect>
+		<intelligence_effect>30</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>12500</item_cost>
+        <item_type>food</item_type>
+	</item_object>
+	<item_object>
+		<item_id>prototyperailgun</item_id>
+		<item_name>Prototype Railgun</item_name>
+		<item_desc>Looks like a piece of the future!</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>27600</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>railcannon</item_id>
+		<item_name>The Auto Railer 9000</item_name>
+		<item_desc>It's a fully automatic Railgun. $%#@ ya!</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>4900000</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>railgun</item_id>
+		<item_name>Blast Cannon</item_name>
+		<item_desc>This thing packs a punch!</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>119750</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>solarmatter</item_id>
+		<item_name>Solar Matter</item_name>
+		<item_desc>A chuck of sun.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>teslahelmet</item_id>
+		<item_name>Tesla Helmet</item_name>
+		<item_desc>You got this from teaching...WTF.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>theeliminator</item_id>
+		<item_name>The King</item_name>
+		<item_desc>Hail to the king baby.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+	<item_object>
+		<item_id>thezappyhat</item_id>
+		<item_name>The Zappy Hat</item_name>
+		<item_desc>It shocks people real good.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>1</item_cost>
+	</item_object>
+    <item_object>
+		<item_id>mansionkey</item_id>
+		<item_name>Mansion Key</item_name>
+		<item_desc>A key to your Mansion.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>`
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>castlekey</item_id>
+		<item_name>Castle Key</item_name>
+		<item_desc>A key to your Castle.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>benjaminclubkey</item_id>
+		<item_name>Benjamins Club Card</item_name>
+		<item_desc>The card gives you access to the famous 'Benjamins Club'.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>50000</item_cost>
+	</item_object>
+    <item_object>
+		<item_id>combat_crowbar</item_id>
+		<item_name>Sewer Key</item_name>
+		<item_desc>It's a crowbar key to the sewers.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>fightclubkey</item_id>
+		<item_name>Chainsaw Club Membership</item_name>
+		<item_desc>It says "Chainsaw Club - No holds barred chainsaw fights every night at Jim's Gym".</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>clue1</item_id>
+		<item_name>A Clue</item_name>
+		<item_desc>It's a small piece of paper. The only visible words are 'Chainsaw Club'.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>clue2</item_id>
+		<item_name>The Second Clue</item_name>
+		<item_desc>It's another clue to the Hardware Store murder. All it says is "Talk to Marty, he's usually out drinking".</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>clue3</item_id>
+		<item_name>A Third Clue</item_name>
+		<item_desc>The note reads "The killer was seeing a lady of the evening, she knows more."</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>clue4</item_id>
+		<item_name>Clue #4</item_name>
+		<item_desc></item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>confessionletter</item_id>
+		<item_name>Confession Letter</item_name>
+		<item_desc>"Ever since that day I freely gave out my basement suite, my world has turned upside down. Battling with drugs and alcohol, you were the only spot of sunshine in my life. But then this Ryan guy started coming around. I see him as a major obstacle in our relationship. An obsticle that needs...removing."</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>couponbook</item_id>
+		<item_name>Coupon Book</item_name>
+		<item_desc></item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>crown</item_id>
+		<item_name>Crown</item_name>
+		<item_desc></item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>hugediamond</item_id>
+		<item_name>Huge Fucking Diamond</item_name>
+		<item_desc></item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>hugediamondring</item_id>
+		<item_name>Huge Diamond Ring</item_name>
+		<item_desc>The mother of all rings.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>refillablecoffee</item_id>
+		<item_name>Refillable Coffee</item_name>
+		<item_desc>It's a reusable, refillable, renewable source for coffee.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>warrant</item_id>
+		<item_name>Warrant</item_name>
+		<item_desc>This is a warrant for the arrest of 'Tutorial Ted' on the Charge of murder in the first degree.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>combat_newabandonedwarehousekey</item_id>
+		<item_name>New Warehouse Key</item_name>
+		<item_desc>key to the new warehouse, abandoned shortly after it was finished being built</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost></item_cost>
+	</item_object>
+    <item_object>
+		<item_id>nanobots</item_id>
+		<item_name>Nanobots</item_name>
+		<item_desc>These programmable Nanobots are capable of just about anything...with the right program.</item_desc>
+		<item_unique>false</item_unique>
+		<item_consumable>false</item_consumable>
+		<instant_use>false</instant_use>
+		<hp_effect>0</hp_effect>
+		<strength_effect>0</strength_effect>
+		<charm_effect>0</charm_effect>
+		<intelligence_effect>0</intelligence_effect>
+		<karma_effect>0</karma_effect>
+		<custom_function></custom_function>
+		<item_purchased_from></item_purchased_from>
+		<item_cost>45500</item_cost>
+	</item_object>
+</itemdata>
