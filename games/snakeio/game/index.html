@@ -1,0 +1,100 @@
+
+
+<!DOCTYPE html>
+<html lang="en-us">
+<head>
+<meta charset="utf-8">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<meta name="description" content="¡Deslízate por una nueva y competitiva versión de Snake y sobrevive tanto como puedas! ¡Desafía a tus amigos y trata de ser el gusano más grande en Snake.io!" />
+<meta property="og:description" content="¡Deslízate por una nueva y competitiva versión de Snake y sobrevive tanto como puedas! ¡Desafía a tus amigos y trata de ser el gusano más grande en Snake.io!" />
+<meta name="keywords" content="snakeio, snake io, snake, snakes, io, juegos .io, gusano, gusanos, juego, juegos, juego web, html5, divertido, gratis, genial, popular, kooapps, slitherio, slither, snack, snak, aburrido, trabajo, trabajar, trabajando" />
+<meta name="insight-app-sec-validation" content="2ef0b86b-e365-4d64-8dbd-6513e4a353f1">
+<meta property="og:type" content="website" />
+<meta property="og:title" content="snake.io" />
+<meta property="og:url" content="https://snake.io/" />
+<meta property="og:site_name" content="snake.io" />
+<meta property="og:image" content="https://snake.io/app_icon_snakeio.png" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<link rel="canonical" href="https://snake.io/">
+<link rel="shortcut icon" href="../icon" type="image/x-icon">
+<title>Snake.io</title>
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<link rel="stylesheet" href="assets/css/reset.css?ver=1.0">
+<link rel="stylesheet" href="assets/css/style.css?ver=1.1">
+<link rel="stylesheet" href="TemplateData/style.css?ver=1.2">
+<script src="assets/js/jquery-3.4.1.min.js"></script>
+
+<script src="https://www.googletagmanager.com/gtag/js"></script>
+<script>
+    window.dataLayer = window.dataLayer || [];
+    function gtag() { dataLayer.push(arguments); }
+  </script>
+
+<script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-app.js"></script>
+
+<script src="https://www.gstatic.com/firebasejs/8.6.5/firebase-analytics.js"></script>
+<script src="assets/js/analyticsWebPlugin.js"></script>
+<script src="assets/js/snakeClient.js"></script>
+<script src="https://sdk.crazygames.com/crazygames-sdk-v1.js"></script>
+</head>
+<body>
+
+<a id="previewUrl" href="#" style="position: absolute; z-index: -1;"></a>
+<div id="unity-container">
+<canvas id="unity-canvas"></canvas>
+<div id="unity-loading-bar">
+<div id="unity-logo"></div>
+<div id="unity-progress-bar-empty">
+<div id="unity-progress-bar-full"></div>
+</div>
+</div>
+</div>
+<div id="banner-container"></div>
+<script>
+    var canvas = document.querySelector("#unity-canvas");
+    var loadingBar = document.querySelector("#unity-loading-bar");
+    var progressBarFull = document.querySelector("#unity-progress-bar-full");
+
+    var unityInstance = null;
+
+    var buildUrl = "Build";
+    var config = {
+      dataUrl: buildUrl + "/8fc0bdb6df04bebab02958f3c9cd708a.data.br",
+      frameworkUrl: buildUrl + "/0c5252f12b6b676d5e9c886422e5690f.js.br",
+      codeUrl: buildUrl + "/ef344173df2ecc63da2715129f854ecb.wasm.br",
+      streamingAssetsUrl: "StreamingAssets",
+      companyName: "Amelos Interactive",
+      productName: "Snake.io",
+      productVersion: "1.0.3",
+    };
+    var loaderUrl = buildUrl + "/72203a0775898ae3e986f43cf4989a91.js";
+
+    loadingBar.style.display = "block";
+
+    var script = document.createElement("script");
+    script.src = loaderUrl;
+    script.onload = () => {
+      createUnityInstance(canvas, config, (progress) => {
+        progressBarFull.style.width = 100 * progress + "%";
+      }).then((gameInstance) => {
+        loadingBar.style.display = "none";
+        unityInstance = gameInstance;
+        OnUnityReady();
+      }).catch((error) => {
+        alert(message);
+      });
+    };
+
+    document.body.appendChild(script);
+
+    function OnUnityReady() {
+        if (unityInstance == null) {
+          return;
+        }
+        unityInstance.SendMessage("LocalizationManager", "SetBrowserLanguage", "es");
+    };
+  </script>
+<script defer src="https://static.cloudflareinsights.com/beacon.min.js/v84a3a4012de94ce1a686ba8c167c359c1696973893317" integrity="sha512-euoFGowhlaLqXsPWQ48qSkBSCFs3DPRyiwVu3FjR96cMPx+Fr+gpWRhIafcHwqwCqWS42RZhIudOvEI+Ckf6MA==" data-cf-beacon='{"rayId":"865139b359f4db9a","version":"2024.3.0","token":"2ccb4ef1d72d45199393ae7152e68558"}' crossorigin="anonymous"></script>
+</body>
+</html>

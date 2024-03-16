@@ -1,0 +1,1 @@
+var snakeClient={init:function(){$.getJSON('https://api.ipify.org?format=jsonp&callback=?',function(data){window.localStorage.setItem('clientIp',data.ip);});},getClientIp:function(){return window.localStorage.getItem('clientIp');}};
