@@ -20,14 +20,19 @@
         </a>
     </div>
     <div z-index:-1; class="background" id="background"></div>
-    <iframe class="gameframe" id="gameframe" src="" seamless allow="autoplay; camera; focus-without-user-activation *; monetization; gamepad; keyboard-map *; xr-spatial-tracking; clipboard-write; web-share; accelerometer; magnetometer; gyroscope" autofocus="true">
-        Your browser doesn't support iframes
-    </iframe>
-    <div class="buttonsenshit">
-        <a onclick="document.querySelector('#gameframe').requestFullscreen()">
-            <img alt="tag" src="/assets/fullscreen.svg" height="40" width="auto">
-        </a>
+
+
+    <div class="gameholder">
+        <iframe class="gameframe" id="gameframe" src="" seamless allow="autoplay; camera; focus-without-user-activation *; monetization; gamepad; keyboard-map *; xr-spatial-tracking; clipboard-write; web-share; accelerometer; magnetometer; gyroscope" autofocus="true">
+            Your browser doesn't support iframes
+        </iframe>
+        <div class="buttonsenshit">
+            <a onclick="document.querySelector('#gameframe').requestFullscreen()">
+                <img alt="tag" src="/assets/fullscreen.svg" height="40" width="auto">
+            </a>
+        </div>
     </div>
+
 </body>
 </html>
 
@@ -55,22 +60,28 @@
     .gameframe { 
         border:none; 
         overflow: auto; 
-        margin: 20px;
-        margin-bottom: 0px;
         height: 80%;
-        width: 95%;
+        width: 100%;
     }
     .buttonsenshit {
         background-color: rgb(153, 153, 153);
         border: none;
-        margin: 20px;
-        margin-top: 0px;
-        margin-bottom: 0;
-        padding:5px;
-        height: 5%;
         overflow: hidden;
-        width: 94.3%;
+        width: 100%;
         text-align: right;
+    }
+    .gameholder {
+        border:none; 
+        overflow: hidden; 
+        margin: 20px;
+        margin-bottom: 0px;
+        display: flex;
+        flex-flow: column;
+        height: fit-content;
+        height: 100%;
+    }
+    body {
+        overflow: hidden;
     }
 </style>
 <script type="text/javascript" src="/js/particle/particles.min.js"></script>
