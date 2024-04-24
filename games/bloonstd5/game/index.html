@@ -23,6 +23,7 @@
 
 <script>
     window.RufflePlayer = window.RufflePlayer || {};
+    window.RufflePlayer.config = {"maxExecutionDuration":30}; // this game loads slow af cuz its a big game so we can give it more time to load.
     window.addEventListener("load", (event) => {
         const ruffle = window.RufflePlayer.newest();
         const player = ruffle.createPlayer();
