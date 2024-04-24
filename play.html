@@ -1,0 +1,85 @@
+<meta content="Total Click" property="og:title" />
+<meta content="Play some games you fucking dumbass." property="og:description" />
+<meta content="https://embed.com/this-is-the-site-url" property="og:url" />
+<meta content="https://embed.com/embedimage.png" property="og:image" />
+<meta content="#4cb4dd" data-react-helmet="true" name="theme-color" />
+
+<meta name="robots" content="noindex">
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Total Click</title>
+    <link rel="icon" type="image/x-icon" href="/assets/favicon.png">
+</head>
+<body>
+    <div class="header">
+        <a href="..">
+            <img alt="tag" src="/assets/card.png" height="40" width="auto">
+        </a>
+    </div>
+    <div z-index:-1; class="background" id="background"></div>
+    <iframe class="gameframe" id="gameframe" src="" sandbox="allow-scripts allow-same-origin allow-forms allow-popups" seamless allow="autoplay; camera; focus-without-user-activation *; monetization; gamepad; keyboard-map *; xr-spatial-tracking; clipboard-write; web-share; accelerometer; magnetometer; gyroscope" autofocus="true">
+        Your browser doesn't support iframes
+    </iframe>
+    <div class="buttonsenshit">
+        <a onclick="document.querySelector('#gameframe').requestFullscreen()">
+            <img alt="tag" src="/assets/fullscreen.svg" height="40" width="auto">
+        </a>
+    </div>
+</body>
+</html>
+
+<style>
+    div.header {
+        background-color: rgba(128, 128, 128, 0.123);
+        margin: 20px;
+        padding:5px; 
+        width: fit-content;
+        height: fit-content;
+        border-top-left-radius: 20px;
+        border-top-right-radius: 20px;
+        border-bottom-left-radius: 20px;
+        border-bottom-right-radius: 20px;
+    }
+    .background {
+        position: fixed;
+        top: 0;
+        left: 0;
+        width: 100%;
+        height: 100%;
+        background-color: rgb(2, 46, 63); 
+        z-index: -1; 
+    }
+    .gameframe { 
+        border:none; 
+        overflow: auto; 
+        margin: 20px;
+        margin-bottom: 0px;
+        height: 80%;
+        width: 95%;
+    }
+    .buttonsenshit {
+        background-color: rgb(153, 153, 153);
+        border: none;
+        margin: 20px;
+        margin-top: 0px;
+        margin-bottom: 0;
+        padding:5px;
+        height: 5%;
+        overflow: hidden;
+        width: 94.3%;
+        text-align: right;
+    }
+</style>
+<script type="text/javascript" src="/js/particle/particles.min.js"></script>
+<script type="text/javascript" src="/js/particle/config.js"></script>
+
+<script>
+    const urlParams = new URLSearchParams(window.location.search);
+    const game = urlParams.get('game');
+    const gameframe = document.querySelector("#gameframe")
+    gameframe.src = `games/${game}/game/`
+
+</script>

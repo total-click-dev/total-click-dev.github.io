@@ -1,4 +1,31 @@
-async function getgames(){return JSON.parse(await (await fetch("/games.json")).text())};
-function makebutton(e){newbutton=document.createElement("a"),document.body.getElementsByClassName('container')[0].append(newbutton),newbutton.outerHTML=' <a class="'+e+'" rel="noreferrer noopener" target="_blank" href="/games/'+e+'/game"><img alt="'+e+'" style="border-radius: 30%;" src="/games/'+e+'/icon" width="100" height="100"></img></a>'};
+async function getGames() {
+    const response = await fetch("/games.json");
+    const data = await response.json();
+    return data;
+}
 
-getgames().then(e=>{for(let t=0;t<e.length;t++)makebutton(e[t])});
+function makeButton(gameName) {
+    const newButton = document.createElement("a");
+    newButton.className = gameName;
+    newButton.rel = "noreferrer noopener";
+    newButton.target = "_blank";
+    newButton.onclick = function() {
+        window.location.href = `play.html?game=${gameName}`;
+    };
+    newButton.style.borderRadius = "30%";
+    
+    const img = document.createElement("img");
+    img.style.border = "20px solid transparent"
+    img.alt = gameName;
+    img.style.borderRadius = "30%";
+    img.src = "/games/" + gameName + "/icon";
+    img.width = 100;
+    img.height = 100;
+    
+    newButton.appendChild(img);
+    document.querySelector('.container').appendChild(newButton);
+}
+
+getGames().then(gameNames => {
+    gameNames.forEach(gameName => makeButton(gameName));
+});
