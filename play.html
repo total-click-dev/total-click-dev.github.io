@@ -93,4 +93,7 @@
     const gameframe = document.querySelector("#gameframe")
     gameframe.src = `games/${game}/game/`
 
+    gameframe.onblur = function(){
+        gameframe.focus()
+    }
 </script>
