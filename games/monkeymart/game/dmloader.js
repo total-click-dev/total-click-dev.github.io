@@ -408,7 +408,7 @@ var GameArchiveLoader = {
             actualSize += file.pieces[i].dataLength;
         }
         if (actualSize != file.size) {
-            throw "Unexpected data size";
+            throw "Unex`p`ected data size";
         }
 
         // verify the pieces
