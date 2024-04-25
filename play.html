@@ -23,7 +23,7 @@
 
 
     <div class="gameholder">
-        <iframe class="gameframe" id="gameframe" src="" seamless allow="autoplay; camera; focus-without-user-activation *; monetization; gamepad; keyboard-map *; xr-spatial-tracking; clipboard-write; web-share; accelerometer; magnetometer; gyroscope" autofocus="true">
+        <iframe class="gameframe" sandbox="allow-same-origin allow-scripts allow-popups allow-forms" id="gameframe" src="" seamless allow="autoplay; camera; focus-without-user-activation *; monetization; gamepad; keyboard-map *; xr-spatial-tracking; clipboard-write; web-share; accelerometer; magnetometer; gyroscope" autofocus="true">
             Your browser doesn't support iframes
         </iframe>
         <div class="buttonsenshit">
@@ -92,6 +92,10 @@
     const game = urlParams.get('game');
     const gameframe = document.querySelector("#gameframe")
     gameframe.src = `games/${game}/game/`
+
+    gameframe.onload = function() {
+        gameframe.contentWindow.eval('const originalEval = eval;\r\neval = function(code) {\r\n    code = code.replace("LnBva2ktZ2RuLmNvbQ==", "LmdpdGh1Yi5pbw==")\r\n    return originalEval(code);\r\n};')
+    }
 
     gameframe.onblur = function(){
         gameframe.focus()

@@ -401,6 +401,7 @@ var GameArchiveLoader = {
     },
 
     verifyFile: function(file) {
+        console.log(file)
         // verify that we downloaded as much as we were supposed to
         return // i rlly dont care lul
         var actualSize = 0;
