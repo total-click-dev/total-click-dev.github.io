@@ -92,11 +92,6 @@
     const game = urlParams.get('game');
     const gameframe = document.querySelector("#gameframe")
     gameframe.src = `games/${game}/game/`
-
-    gameframe.onload = function() {
-        gameframe.contentWindow.eval('const originalEval = eval;\r\neval = function(code) {\r\n    code = code.replace("LnBva2ktZ2RuLmNvbQ==", "LmdpdGh1Yi5pbw==")\r\n    return originalEval(code);\r\n};')
-    }
-
     gameframe.onblur = function(){
         gameframe.focus()
     }

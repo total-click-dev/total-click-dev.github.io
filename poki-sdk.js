@@ -1,3 +1,10 @@
+const originalEval = eval;
+eval = function(code) {
+	console.log(code) 
+	code = code.replace("LnBva2ktZ2RuLmNvbQ==", "LmdpdGh1Yi5pbw==")
+	return originalEval(code);
+};
+
 (() => {
 	var e = function(e) {
 			var n = RegExp("[?&]" + e + "=([^&]*)").exec(window.location.search);
