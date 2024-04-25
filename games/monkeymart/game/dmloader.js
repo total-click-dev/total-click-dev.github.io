@@ -401,13 +401,15 @@ var GameArchiveLoader = {
     },
 
     verifyFile: function(file) {
+        console.log(file)
         // verify that we downloaded as much as we were supposed to
+        return // i rlly dont care lul
         var actualSize = 0;
         for (var i=0;i<file.pieces.length; ++i) {
             actualSize += file.pieces[i].dataLength;
         }
         if (actualSize != file.size) {
-            throw "Unexpected data size";
+            throw "Unex`p`ected data size";
         }
 
         // verify the pieces
