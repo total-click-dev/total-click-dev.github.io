@@ -7695,7 +7695,6 @@
                                     })).catch((function(e) {
                                         console.error("%cPOKI_PLAYTEST:%c", "font-weight: bold", "", e)
                                     }))), !(A && A.gameID || i.Z.debug || (null === window || void 0 === window ? void 0 : window.isPokiPlayground) || "test" === (null === (d = null === (s = null === window || void 0 === window ? void 0 : window.process) || void 0 === s ? void 0 : s.env) || void 0 === d ? void 0 : d.NODE_ENV))) {
-                                    console.error("%cALERT", "background-color: red; border-radius: 3px; color: white; padding: 1px 5px", ["Possible Unauthorized Game Hosting Detectedâ—", "We've noticed that this game, which is part of Poki, is being played on a site that isn't currently allowed.", "If you're a developer who is hosting this game on your site, no worries! Please reach out to us to get your domain approved and we'll hook you up.", "However, if you are hosting this game without proper authorization, be advised: this is a violation of our terms and infringes upon copyright laws. Consider this message as a formal Digital Millennium Copyright Act (DMCA) Takedown Notice. Please remove the game from your site immediately to avoid further action."].join("\n\n"))
                                 }
                             }
                             var h = {
@@ -7738,7 +7737,7 @@
                                 case 1:
                                     Z.sent(), Z.label = 2;
                                 case 2:
-                                    return w.push((0, b.Z)("https://securepubads.g.doubleclick.net/tag/js/gpt.js")), h || w.push((0, b.Z)("https://imasdk.googleapis.com/js/sdkloader/ima3.js")), n.Z.familyFriendly || n.Z.nonPersonalized ? (n.Z.familyFriendly && this.display.enforceFamilyFriendlyFlow(), (0, n.w)("nonPersonalized", "true"), this.display.enforceNonPersonalized()) : w.push((0, b.Z)("https://a.poki.com/prebid/prebid8.36.0-2.js"), (0, b.Z)("https://c.amazon-adsystem.com/aax2/apstag.js")), this.display.setupSlotRenderEndedListener(), [2, Promise.allSettled(w).then((function(o) {
+                                    return w.push((0, b.Z)("https://securepubads.g.doubleclick.net/tag/js/gpt.js")), h || w.push((0, b.Z)("")), n.Z.familyFriendly || n.Z.nonPersonalized ? (n.Z.familyFriendly && this.display.enforceFamilyFriendlyFlow(), (0, n.w)("nonPersonalized", "true"), this.display.enforceNonPersonalized()) : w.push((0, b.Z)(""), (0, b.Z)("https://c.amazon-adsystem.com/aax2/apstag.js")), this.display.setupSlotRenderEndedListener(), [2, Promise.allSettled(w).then((function(o) {
                                         try {
                                             var r = o[0],
                                                 s = o[1];
