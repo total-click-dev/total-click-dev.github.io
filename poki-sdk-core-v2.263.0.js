@@ -4372,6 +4372,7 @@
 						u = void 0 === l ? null : l;
 					if (this.autoStartOnReady = !1 !== i, d && this.registerHandler("onFinish", d), c && this.registerHandler("onStart", c), this.isBot) d && d({});
 					else {
+						
 						if (!this.sdkBooted) return a.dispatchEvent(n.ads.error, {
 							message: "Requesting ad on unbooted SDK"
 						}), void this.sdkNotBootedButCalled();
@@ -4542,12 +4543,12 @@
 					})), a.addEventListener(n.ads.limit, (function() {
 						e.callHandler("onFinish", {
 							type: n.ads.limit,
-							rewardAllowed: !1
+							rewardAllowed: !!t.rewardAllowed
 						})
 					})), a.addEventListener(n.ads.stopped, (function() {
 						e.callHandler("onFinish", {
 							type: n.ads.stopped,
-							rewardAllowed: !1
+							rewardAllowed: !!t.rewardAllowed
 						})
 					})), a.addEventListener(n.ads.error, (function(t) {
 						e.callHandler("onFinish", {
@@ -4557,7 +4558,7 @@
 					})), a.addEventListener(n.ads.busy, (function() {
 						e.callHandler("onFinish", {
 							type: n.ads.busy,
-							rewardAllowed: !1
+							rewardAllowed: !!t.rewardAllowed
 						})
 					})), a.addEventListener(n.ads.completed, (function(t) {
 						e.callHandler("onFinish", {
