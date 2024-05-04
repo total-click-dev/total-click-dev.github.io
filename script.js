@@ -15,7 +15,7 @@ function makeButton(gameName) {
     gameName = gameName.replace('__DEV__', '')
 
     const newButton = document.createElement("a");
-    newButton.className = gameName;
+    //newButton.className = "gameButton";
     newButton.rel = "noreferrer noopener";
     newButton.target = "_blank";
     newButton.onclick = function() {
@@ -24,6 +24,7 @@ function makeButton(gameName) {
     newButton.style.borderRadius = "30%";
     
     const img = document.createElement("img");
+    img.className = "gameButton";
     img.style.border = "20px solid transparent"
     img.alt = gameName;
     img.style.borderRadius = "30%";
