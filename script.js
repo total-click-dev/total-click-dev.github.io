@@ -18,9 +18,7 @@ function makeButton(gameName) {
     //newButton.className = "gameButton";
     newButton.rel = "noreferrer noopener";
     newButton.target = "_blank";
-    newButton.onclick = function() {
-        window.location.href = `play.html?game=${gameName}`;
-    };
+    newButton.href = `play.html?game=${gameName}`;
     newButton.style.borderRadius = "30%";
     
     const img = document.createElement("img");
