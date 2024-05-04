@@ -238,9 +238,20 @@
 			var gamefile = await (await fetch('game.gba')).blob();
 			run(gamefile);
 			setPixelated(true);
+			window.onbeforeunload = function () {
+				var sram = gba.mmu.save;
+				try {
+					var storage = window.localStorage;
+					storage[gba.SYS_ID + "." + gba.mmu.cart.code] = gba.encodeBase64(
+						sram.view
+					);
+				} catch (e) {
+					gba.WARN("Could not store savedata! " + e);
+				}
+			}
 		} catch (error) {
 			console.error('Error loading:', error);
 		}
 	})();
 </script>
-
+	
