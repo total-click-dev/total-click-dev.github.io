@@ -15,9 +15,6 @@ function makeButton(gameName) {
     gameName = gameName.replace('__DEV__', '')
 
     const newButton = document.createElement("a");
-    //newButton.className = "gameButton";
-    newButton.rel = "noreferrer noopener";
-    newButton.target = "_blank";
     newButton.href = `play.html?game=${gameName}`;
     newButton.style.borderRadius = "30%";
     
