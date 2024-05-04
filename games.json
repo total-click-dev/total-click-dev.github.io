@@ -1,6 +1,7 @@
 [
     "gbajs2__DEV__",
     "n64js__DEV__",
+    "emulatorjs__DEV__",
     "retrobowl",
     "retrobowlc",
     "cookieclicker",
@@ -87,5 +88,6 @@
     "pokemonemerald",
     "SonicAdvance3",
     "NarutoNinjaCouncil2",
-    "SuperMarioAdvance3"
+    "SuperMarioAdvance3",
+    "mario64"
 ]
