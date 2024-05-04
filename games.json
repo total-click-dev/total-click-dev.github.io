@@ -1,5 +1,6 @@
 [
     "gbajs2__DEV__",
+    "n64js__DEV__",
     "retrobowl",
     "retrobowlc",
     "cookieclicker",
@@ -79,5 +80,6 @@
     "CoverOrangeJWW",
     "CoverOrangeJP",
     "Peggle",
-    "pokemonfirered"
+    "pokemonfirered",
+    "pokemonemerald"
 ]
