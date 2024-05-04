@@ -235,6 +235,7 @@
 <script>
 	(async function() {
 		try {
+			gba.retrieveSavedata()
 			var gamefile = await (await fetch('game.gba')).blob();
 			run(gamefile);
 			setPixelated(true);
@@ -254,4 +255,4 @@
 		}
 	})();
 </script>
-	
+
