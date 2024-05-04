@@ -1,3 +1,5 @@
+const prod = localStorage.getItem("prod")
+
 async function getGames() {
     const response = await fetch("/games.json");
     const data = await response.json();
@@ -5,6 +7,13 @@ async function getGames() {
 }
 
 function makeButton(gameName) {
+
+    if (gameName.search("__DEV__") != -1 && prod != 'dev'){
+        return
+    }
+
+    gameName = gameName.replace('__DEV__', '')
+
     const newButton = document.createElement("a");
     newButton.className = gameName;
     newButton.rel = "noreferrer noopener";
